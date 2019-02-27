@@ -1,0 +1,38 @@
+h1 {
+	font-family: Impact, Charcoal, sans-serif;
+	color: green;
+}
+
+p {
+  padding-left: 75px;
+}
+
+h2 {
+	padding-left: 75px;
+}
+
+h3 {
+	padding-left: 75px;
+}
+
+ul {
+	padding-left: 75px;
+}
+
+img {
+  padding: 75px;
+}
+  
+h1 {
+	border-style: solid;
+	border-width: medium;
+}
+  
+body {
+	background-color: lightblue;
+}
+
+footer {
+	padding-top: 45px;
+	paddding-bottom: 45px;
+}
